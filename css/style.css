@@ -28,6 +28,12 @@ header{
     font-size: large;
 }
 
+.content{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
 footer{
     margin-top: 30px;
     background-color: aqua;
